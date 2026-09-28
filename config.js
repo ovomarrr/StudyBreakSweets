@@ -24,18 +24,18 @@ const SITE_CONFIG = {
   // WEEKLY MENU: change this list each week. The order page and menu update automatically.
   products: [
     {
-      id: "choc-chip",
-      name: "Chocolate Chip",
-      description: "Classic soft-baked cookie packed with melty chocolate chips.",
+      id: "Nut_ella",
+      name: "Nutella deluxe",
+      description: "Classic cookie with a creamy nutella filling.",
       price: 3.00,
       availability: "Available",
       emoji: "🍪",
       featured: true
     },
     {
-      id: "cookies-cream",
-      name: "Cookies & Cream",
-      description: "A soft vanilla cookie loaded with crushed chocolate sandwich cookies.",
+      id: "Fruity_pebs",
+      name: "Fruity pebbles",
+      description: "A fruity pebbles flavored cookie.",
       price: 3.00,
       availability: "Available",
       emoji: "🤍",
@@ -43,17 +43,17 @@ const SITE_CONFIG = {
     },
     {
       id: "brown-butter",
-      name: "Brown Butter Chocolate Chip",
-      description: "Rich, nutty brown butter dough with plenty of chocolate chips.",
+      name: "Blank till further notice",
+      description: "open spot",
       price: 3.50,
-      availability: "Available",
+      availability: "unavailable",
       emoji: "🍫",
       featured: true
     },
     {
       id: "ctc",
-      name: "Cinnamon Toast Crunch",
-      description: "Warm cinnamon-sugar cookie with a crunchy cereal finish.",
+      name: "blank till further notice",
+      description: "opens spot.",
       price: 3.00,
       availability: "Sample / editable",
       emoji: "✨",
@@ -61,7 +61,7 @@ const SITE_CONFIG = {
     },
     {
       id: "red-velvet",
-      name: "Red Velvet",
+      name: "blank till further notice",
       description: "Soft red velvet cookie with a rich chocolate flavor.",
       price: 3.25,
       availability: "Sample / editable",
