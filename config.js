@@ -12,7 +12,7 @@ const SITE_CONFIG = {
 
   // Paste the deployed Google Apps Script Web App URL here.
   // The included GOOGLE_SHEETS_SETUP.md walks you through the one-time setup.
-  googleSheetsEndpoint: "https://docs.google.com/spreadsheets/d/1_V7CUw9Nm3FbbPnsxgvfm2ug7LWTitc2MlNfVAjl0GQ/edit",
+  googleSheetsEndpoint: "https://script.google.com/macros/s/AKfycbwHFPnpcCx9KJZ-iWcQILC82UXFk1FtwTPkP7R0QjfMzEnEv4ROO96gjiySdc2rPs2qRg/exec",
 
   orderingNote: "Orders are sent to the Cookies by Piper order sheet and then you can complete payment through Cash App.",
   schools: [
