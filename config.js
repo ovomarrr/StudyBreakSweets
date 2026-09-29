@@ -26,9 +26,9 @@ const SITE_CONFIG = {
     {
       id: "Nut_ella",
       name: "Nutella deluxe",
-      description: "Classic cookie with a creamy nutella filling.",
+      description: "available in woodbridge only. ran out in edison and lbss.",
       price: 3.00,
-      availability: "Available",
+      availability: "unavailable",
       emoji: "🍪",
       featured: true
     },
